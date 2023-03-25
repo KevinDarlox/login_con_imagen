@@ -1,0 +1,42 @@
+body{
+    background-image: url(/SB_Screenshot_03.jpg);
+    background-size: cover;
+    font-family: 'Noto Serif', sans-serif !important;
+}
+
+h1{
+    font-size: 1rem;
+}
+
+.form {
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    width: 20rem;
+    margin-top: 10rem;
+    border-radius: 1rem;
+    line-height: 2;
+    font-size: 0.6rem;
+}
+
+input {
+    border: 1px solid rgb(220, 224, 221);
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    width:15rem;
+}
+
+.bot{
+    background-color: rgb(10, 51, 184);
+    width: 15rem;
+    height: 2rem;
+    border: 0rem;
+    color: white;
+    border-radius: 1rem;
+}
+
+h2{
+    font-size: 0.9rem;
+}
+
